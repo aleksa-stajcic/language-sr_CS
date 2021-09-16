@@ -1,8 +1,8 @@
 {
-    "name": "community-engineering/language-sr_cs",
+    "name": "community-engineering/language-sr_Latn_RS",
     "version": "0.0.8",
     "type": "magento2-language",
-    "description": "sr_CS language package.",
+    "description": "sr_Latn_RS language package.",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
